@@ -1,0 +1,16 @@
+TODOs
+5) Fixing Notifications on Watch
+
+7) LOGGING SYSTEM TODOs:
+    - iPhone
+        - New Sound Group Created
+        - Sound Group Updated
+        - Sound Group Deleted
+        - Sound Group Activated
+        - Sound Group Deactivated
+    
+    - Apple Watch
+        - Sound Classification + Confidence + Notification Sent? (Y/N)
+        - Add Persistent Storage for Logs on Apple Watch
+        - Send Logs to Phone on Sync
+
