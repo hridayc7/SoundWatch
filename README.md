@@ -95,7 +95,3 @@ SoundWatch leverages Apple's Sound Analysis framework to identify various sounds
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Insert your license information here]
