@@ -1,7 +1,5 @@
 TODOs
-5) Fixing Notifications on Watch
-
-7) LOGGING SYSTEM TODOs:
+LOGGING SYSTEM TODOs:
     - iPhone
         - New Sound Group Created
         - Sound Group Updated
